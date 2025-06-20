@@ -1,7 +1,6 @@
 "use client";
-
 import { useEffect, useState } from "react";
-import ProductModal from "../components/ProductModal/page";
+import ProductModal from "../components/ProductModal/ProductModal";
 
 type Product = {
   id: string;
